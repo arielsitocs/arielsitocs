@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Ariel Escobar</h1>
+<h3 align="center">Desarrollador Fullstack · React · Node.js · MongoDB</h3>
 
-<!--
-**arielsitocs/arielsitocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Soy estudiante de último año enfocado en desarrollo web fullstack. Me gusta crear interfaces modernas, funcionales, limpias y minimalistas, utilizando tecnologías como React, Next.js, MongoDB, etc.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
+
+- 🎓 Estudiante de ingeniería, desarrollador autodidacta con pasión por construir soluciones completas y atractivas.
+- 💻 He trabajado en proyectos con:
+  - Registro e inicio de sesión con MongoDB
+  - CRUD de notas y productos
+  - JSON Web Tokens
+  - Subida de imágenes con BackBlaze
+  - Manejo de estados sin Redux
+- 🎨 Me encanta trabajar con diseños minimalistas pero atractivos.
+- 📱 Optimizo interfaces para que funcionen fluido incluso en dispositivos de gama media-baja.
+- 🧩 También juego con lógica, organizo código y soy partidario del desarrollo modular y escalable.
+
+---
+
+### 🚀 Tecnologías y herramientas que uso
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-A259FF?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArielEscobar&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArielEscobar&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 📫 ¿Hablamos?
+
+Puedes escribirme para colaboraciones, ideas o simplemente compartir proyectos:
+- ✉️ arielescobar531@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ariel-escobar/)
+
+---
