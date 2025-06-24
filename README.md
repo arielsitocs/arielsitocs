@@ -38,8 +38,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielsitocs&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielsitocs&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arielsitocs&show_icons=true&theme=tokyonight" width="200" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielsitocs&theme=tokyonight" width="200" height="200" />
 </p>
 
 ---
