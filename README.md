@@ -38,7 +38,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielsitocs)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=arielsitocs&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielsitocs&theme=tokyonight" height="150" />
 </p>
 
 ---
