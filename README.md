@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Fullstack · React · Node.js · MongoDB</h3>
 
 <p align="center">
-  Soy estudiante de último año enfocado en desarrollo web fullstack. Me gusta crear interfaces modernas, funcionales, limpias y minimalistas, utilizando tecnologías como React, Next.js, MongoDB, etc.
+  Soy titulado de Ingenieria Informatica enfocado en desarrollo web fullstack. Me gusta crear interfaces modernas, funcionales, limpias y minimalistas, utilizando tecnologías como React, Next.js, MongoDB, etc.
 </p>
 
 ---
